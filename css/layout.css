@@ -946,6 +946,7 @@ footer .copyright li {
     margin: 0;
     padding: 0;
     line-height: 24px;
+    font-size: 10px;
 }
 .ie footer .copyright li {
    display: inline;
